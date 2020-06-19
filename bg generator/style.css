@@ -1,0 +1,19 @@
+body {
+    /* display: flex;
+     */
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: linear-gradient(224deg, #a22b9e, #7dd7be);
+}
+
+html {
+    height: 100%;
+    color: rgb(255, 255, 255);
+
+}
